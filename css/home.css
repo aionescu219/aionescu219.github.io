@@ -1,0 +1,13 @@
+.big-apply {
+    border: solid 2px white;
+    margin: 5rem auto 5rem auto;
+    width: 15rem;
+    height: 4rem;
+    font-size: 1.25rem;
+    padding: 1rem;
+}
+
+.apply-parent {
+    display: flex;
+    justify-content: center;
+}

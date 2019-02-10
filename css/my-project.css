@@ -1,0 +1,15 @@
+.project-progress {
+    width: 100%;
+}
+
+@media (min-width: 768px) {
+    .project-progress {
+        width: 50%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .project-progress {
+        width: 30%;
+    }
+}
